@@ -10,7 +10,7 @@ This repository contains all writeup of training questions HKCERT CTF 2022 train
 | ★★☆☆☆ | 2022年10月12日 9AM |
 | ★★★☆☆ | 2022年10月19日 12AM |
 
-| Difficulties | 發佈日期 |
+| Difficulties | Date of Release |
 |:----- |:------------------ |
 | ★☆☆☆☆ | 9 Oct 2022 12AM |
 | ★★☆☆☆ | 12 Oct 2022 9AM |
